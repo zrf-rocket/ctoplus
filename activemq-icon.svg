@@ -1,0 +1,58 @@
+<svg width="840.219910" height="1175.977539" viewBox="0 0 840.22 1175.98" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<filter id="filter_8_1187_dd" x="1.913757" y="27.252686" width="836.393127" height="1126.082397" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+			<feOffset dx="0" dy="4"/>
+			<feGaussianBlur stdDeviation="0.2"/>
+			<feComposite in2="hardAlpha" operator="out" k2="-1" k3="1"/>
+			<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+			<feBlend mode="normal" in2="BackgroundImageFix" result="effect_dropShadow_1"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="effect_dropShadow_1" result="shape"/>
+		</filter>
+	</defs>
+	<g filter="url(#filter_8_1187_dd)">
+		<path id="path4883" d="M713.4 1148.74L471.56 1147.43L351.87 955.31L474.03 764.49L715.87 765.79L835.56 957.91L713.4 1148.74Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="path4883-4" d="M364.04 963.46L122.2 962.16L2.51 770.04L124.66 579.22L366.5 580.52L486.19 772.64L364.04 963.46Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="path4883-4-2" d="M715.55 779.1L473.71 777.8L354.02 585.68L476.17 394.86L718.01 396.16L837.7 588.28L715.55 779.1Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="path4883-4-2-0" d="M715.38 411.49L473.54 410.19L353.85 218.07L476 27.25L717.85 28.55L837.53 220.67L715.38 411.49Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="path4883-4-2-0-0" d="M365.89 596.1L124.05 594.8L4.36 402.68L126.51 211.86L368.35 213.16L488.04 405.28L365.89 596.1Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="nonzero"/>
+	</g>
+	<path id="path5019-02-9" d="M700.94 754.55L489.67 753.95L384.59 586.38L490.78 419.41L702.05 420.01L807.13 587.58L700.94 754.55Z" fill="#C12766" fill-opacity="1.000000" fill-rule="nonzero"/>
+	<path id="path5019-02-9" d="M489.67 753.95L384.59 586.38L490.78 419.41L702.05 420.01L807.13 587.58L700.94 754.55L489.67 753.95Z" stroke="#000000" stroke-opacity="0" stroke-width="0.835798"/>
+	<path id="path5019-0-5-1" d="M349.43 938.91L138.16 938.31L33.08 770.74L139.27 603.76L350.54 604.36L455.62 771.94L349.43 938.91Z" fill="#3E489F" fill-opacity="1.000000" fill-rule="nonzero"/>
+	<path id="path5019-0-5-1" d="M138.16 938.31L33.08 770.74L139.27 603.76L350.54 604.36L455.62 771.94L349.43 938.91L138.16 938.31Z" stroke="#000000" stroke-opacity="0" stroke-width="4.178991"/>
+	<path id="path5019-4-1-2" d="M698.76 1124.18L487.48 1123.57L382.4 956L488.6 789.03L699.87 789.62L804.95 957.2L698.76 1124.18Z" fill="#714099" fill-opacity="1.000000" fill-rule="nonzero"/>
+	<path id="path5019-4-1-2" d="M487.48 1123.57L382.4 956L488.6 789.03L699.87 789.62L804.95 957.2L698.76 1124.18L487.48 1123.57Z" stroke="#000000" stroke-opacity="0" stroke-width="0.835798"/>
+	<path id="path5019-0-4-9-8" d="M351.28 571.56L140.01 570.96L34.93 403.38L141.12 236.41L352.39 237.01L457.47 404.58L351.28 571.56Z" fill="#78932C" fill-opacity="1.000000" fill-rule="nonzero"/>
+	<path id="path5019-0-4-9-8" d="M140.01 570.96L34.93 403.38L141.12 236.41L352.39 237.01L457.47 404.58L351.28 571.56L140.01 570.96Z" stroke="#000000" stroke-opacity="0" stroke-width="0.835798"/>
+	<path id="path5019-0-0-7-9" d="M700.77 386.94L489.5 386.34L384.42 218.77L490.61 51.8L701.89 52.4L806.97 219.97L700.77 386.94Z" fill="#CF242A" fill-opacity="1.000000" fill-rule="nonzero"/>
+	<path id="path5019-0-0-7-9" d="M489.5 386.34L384.42 218.77L490.61 51.8L701.89 52.4L806.97 219.97L700.77 386.94L489.5 386.34Z" stroke="#000000" stroke-opacity="0" stroke-width="0.835798"/>
+	<ellipse id="path5553-7" cx="593.720093" cy="956.613586" rx="46.341068" ry="42.365044" fill="#FFFFFF" fill-opacity="1.000000"/>
+	<ellipse id="path5553-7" cx="593.720093" cy="956.613586" rx="46.341068" ry="42.365044" stroke="#000000" stroke-opacity="0" stroke-width="1.209717"/>
+	<path id="path5592" d="" fill="#000000" fill-opacity="0" fill-rule="nonzero"/>
+	<path id="path5592" d="M214.88 416.31L628 199.93" stroke="#FFFFFF" stroke-opacity="1.000000" stroke-width="1.979539"/>
+	<path id="path5592-7" d="" fill="#000000" fill-opacity="0" fill-rule="nonzero"/>
+	<path id="path5592-7" d="M244.78 371.64L246.18 806.9" stroke="#FFFFFF" stroke-opacity="1.000000" stroke-width="1.979539"/>
+	<path id="path5592-7-1" d="" fill="#000000" fill-opacity="0" fill-rule="nonzero"/>
+	<path id="path5592-7-1" d="M216.14 755.96L625.49 978.26" stroke="#FFFFFF" stroke-opacity="1.000000" stroke-width="1.979539"/>
+	<path id="path5592-7-7" d="" fill="#000000" fill-opacity="0" fill-rule="nonzero"/>
+	<path id="path5592-7-7" d="M594.48 184.63L595.87 619.9" stroke="#FFFFFF" stroke-opacity="1.000000" stroke-width="1.979539"/>
+	<path id="path5592-7-4" d="" fill="#000000" fill-opacity="0" fill-rule="nonzero"/>
+	<path id="path5592-7-4" d="M596.43 554.19L597.82 989.46" stroke="#FFFFFF" stroke-opacity="1.000000" stroke-width="1.979717"/>
+	<path id="path5592-5" d="" fill="#000000" fill-opacity="0" fill-rule="nonzero"/>
+	<path id="path5592-5" d="M215.39 786.86L628.52 570.48" stroke="#FFFFFF" stroke-opacity="1.000000" stroke-width="1.979539"/>
+	<path id="path5592-7-1-3" d="" fill="#000000" fill-opacity="0" fill-rule="nonzero"/>
+	<path id="path5592-7-1-3" d="M217.28 388.69L626.63 610.99" stroke="#FFFFFF" stroke-opacity="1.000000" stroke-width="1.979539"/>
+	<ellipse id="path5553-7-1" cx="239.576721" cy="769.927368" rx="46.341068" ry="42.365044" fill="#FFFFFF" fill-opacity="1.000000"/>
+	<ellipse id="path5553-7-1" cx="239.576721" cy="769.927368" rx="46.341068" ry="42.365044" stroke="#000000" stroke-opacity="0" stroke-width="1.209717"/>
+	<ellipse id="path5553-7-3" cx="603.496094" cy="591.072144" rx="46.341068" ry="42.365044" fill="#FFFFFF" fill-opacity="1.000000"/>
+	<ellipse id="path5553-7-3" cx="603.496094" cy="591.072144" rx="46.341068" ry="42.365044" stroke="#000000" stroke-opacity="0" stroke-width="1.209717"/>
+	<ellipse id="path5553-7-0" cx="246.206116" cy="403.987183" rx="46.341068" ry="42.365044" fill="#FFFFFF" fill-opacity="1.000000"/>
+	<ellipse id="path5553-7-0" cx="246.206116" cy="403.987183" rx="46.341068" ry="42.365044" stroke="#000000" stroke-opacity="0" stroke-width="1.209717"/>
+	<ellipse id="path5553-7-39" cx="595.697510" cy="219.374512" rx="46.341068" ry="42.365044" fill="#FFFFFF" fill-opacity="1.000000"/>
+	<ellipse id="path5553-7-39" cx="595.697510" cy="219.374512" rx="46.341068" ry="42.365044" stroke="#000000" stroke-opacity="0" stroke-width="1.209717"/>
+</svg>

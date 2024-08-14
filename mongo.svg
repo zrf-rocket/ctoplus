@@ -1,0 +1,31 @@
+<svg width="719.020996" height="1598.000488" viewBox="0 0 719.021 1598" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<linearGradient x1="-527.400757" y1="-77.041122" x2="-507.687897" y2="-70.385391" id="paint_linear_8_1213_0" gradientUnits="userSpaceOnUse">
+			<stop offset="0.231000" stop-color="#999875"/>
+			<stop offset="0.563000" stop-color="#9B9977"/>
+			<stop offset="0.683000" stop-color="#A09F7E"/>
+			<stop offset="0.768000" stop-color="#A9A889"/>
+			<stop offset="0.837000" stop-color="#B7B69A"/>
+			<stop offset="0.896000" stop-color="#C9C7B0"/>
+			<stop offset="0.948000" stop-color="#DEDDCB"/>
+			<stop offset="0.994000" stop-color="#F8F6EB"/>
+			<stop offset="1.000000" stop-color="#FBF9EF"/>
+		</linearGradient>
+		<linearGradient x1="-520.175049" y1="-109.704117" x2="-506.371307" y2="-56.121773" id="paint_linear_8_1214_0" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#48A547"/>
+			<stop offset="1.000000" stop-color="#3F9143"/>
+		</linearGradient>
+		<linearGradient x1="-532.828857" y1="-78.176414" x2="-508.670441" y2="-83.665085" id="paint_linear_8_1215_0" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#41A247"/>
+			<stop offset="0.352000" stop-color="#4BA74B"/>
+			<stop offset="0.956000" stop-color="#67B554"/>
+			<stop offset="1.000000" stop-color="#69B655"/>
+		</linearGradient>
+	</defs>
+	<path id="path" d="M394.58 1598L351.72 1583.79C351.72 1583.79 357.43 1366.92 278.97 1351.68C227.61 1291.87 286.56 -1201.75 474.3 1343.18C437.29 1361.95 411.93 1390.92 398.23 1430.1C391.14 1485.94 389.92 1541.9 394.58 1598Z" fill="url(#paint_linear_8_1213_0)" fill-opacity="1.000000" fill-rule="nonzero"/>
+	<path id="path" d="M417.75 1388.49C534.19 1300.81 618.19 1188.81 669.74 1052.44C721.28 916.09 732.39 776.51 703.06 633.72C619.18 263.61 420.54 141.93 399.14 95.48C380.64 66.49 364.95 36.05 352.07 4.16L367.87 1035.39C367.87 1035.39 335.12 1350.54 417.75 1388.49Z" fill="url(#paint_linear_8_1214_0)" fill-opacity="1.000000" fill-rule="nonzero"/>
+	<path id="path" d="M329.92 1402.19C329.92 1402.19 -19.36 1164.26 0.84 743.35C2.75 614.98 31.18 492.79 86.14 376.77C141.11 260.75 217.65 161.36 315.77 78.58C340.01 57.98 351.56 31.79 350.41 0C372.15 46.79 368.61 698.72 370.9 774.97C379.74 1071.56 354.4 1346.2 329.92 1402.19Z" fill="url(#paint_linear_8_1215_0)" fill-opacity="1.000000" fill-rule="nonzero"/>
+</svg>
