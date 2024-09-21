@@ -20,7 +20,7 @@
 
 .card-plus {
     width: 90%;
-    height: 200px;
+    height: 220px;
     background-color: #f6f6f7;
     border-radius: 8px;
     padding: 10px;
@@ -38,7 +38,7 @@
     .card-plus {
         width: 24vw;
         max-width: 400px;
-        height: 200px;
+        height: 220px;
         background-color: #f6f6f7;
         border-radius: 8px;
         padding: 10px;
